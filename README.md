@@ -4,3 +4,4 @@
 Automatic trading using Bollinger Bands and the 120-day line. We are not responsible for any loss to the user.
 이 저장소에 올려진 두개의 파일을 동시에 런 시키세요.
 Run the two python files uploaded to this repository at the same time.
+LineNotify.py 은 별개의 파일입니다. 5 이동평균선과 10 이동평균선을 이용한 알림 기능입니다.
