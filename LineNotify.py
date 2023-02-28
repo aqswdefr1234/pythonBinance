@@ -70,7 +70,7 @@ binance = ccxt.binance(config = {
     })
 #라인 메시징
 url = "https://notify-api.line.me/api/notify"
-token = "tVVrHYxUi5VnwUDZ5xapeVmpzFu6P5XHLnvX7nSEPd1"
+token = "" #Issue a token in the Line app and enter the token value here
 headers = {'Authorization':'Bearer '+token}
 
 while True:
