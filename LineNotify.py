@@ -93,15 +93,3 @@ while True:
     print(past_ma_10)
     print("감시 중")
     
-"""
-url = "https://notify-api.line.me/api/notify"
-token = "tVVrHYxUi5VnwUDZ5xapeVmpzFu6P5XHLnvX7nSEPd1"
-
-headers = {'Authorization':'Bearer '+token}
-
-message = {
-    "message" : "Hello world"
-}
-
-requests.post(url, headers= headers , data = message)
-"""
